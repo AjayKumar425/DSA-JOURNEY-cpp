@@ -49,7 +49,7 @@ int SingleElement(vector<int>& A){
 
 int main() {
 
-    vector<int> A = { 3  ,4, 4 ,5 , 5, 6, 6, 7, 7};
+    vector<int> A = { 3 ,4, 4 ,5 , 5, 6, 6, 7, 7};
 
     cout << SingleElement( A) <<endl;
     
